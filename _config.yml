@@ -1,11 +1,16 @@
 title: Seong-Heon's Blog
-email: castlehoneyjung@gmail.com
+author:
+  name: Seong-Heon
+  email: 
+    - castlehoneyjung@gmail.com
+    - seong-heon_jung@brown.edu
+  github_username: Forthoney
+
 description: >-
   To err is human.
   To forgive, �â€™⍼ Segmentation fault (core dumped)
 # baseurl: "/Forthoney.github.io" # the subpath of your site, e.g. /blog
 # url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: Forthoney
 header_pages:
   - about_me.md
 

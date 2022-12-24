@@ -1,7 +1,15 @@
 <footer>
-  <div class="links">
-    <a href="{{ "github.com/" + site.github_username }}">{{site.github_username}}</a>
-  </div>
+  <ul class="contact-list">
+    {% if site.author.name -%}
+      <li class="p-name">{{ site.author.name | escape }}</li>
+    {% endif -%}
+    {% for address in site.author.email -%}
+      <li><a class="u-email" href="mailto:{{ address }}">{{ address }}</a></li>
+    {%- endif %}
+    {% if site.author.github_username -%}
+      <li><a href="{{ "//github.com/" + site.github_username }}">{{site.github_username}}</a></li>
+    {%- endif %}
+  </ul>
+
   <p>{{ site.description }}</p>
-  {{ site.email }}
 </footer>
