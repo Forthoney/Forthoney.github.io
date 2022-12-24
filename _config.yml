@@ -8,8 +8,8 @@ description: >-
 github_username: Forthoney
 header_pages:
   - about_me.md
-style: dark
 
+style: dark
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
