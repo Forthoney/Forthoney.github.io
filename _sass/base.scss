@@ -92,14 +92,27 @@ footer {
 /**
  * Lists
  */
-:not(.menu) > ul { 
+ul { 
     list-style: none;  
     list-style-type: none; 
     padding-left: 0; 
 }
-:not(.menu) > ul > li:before { 
+ul > li:before { 
     content: "-";  
     margin-right: 9px; 
+}
+.unstyled-ul li { 
+    display: inline;  
+    margin-left: 10px; 
+}
+.unstyled-ul li a { 
+    text-decoration: none;  
+    color: var(--text-color); 
+}
+.unstyled-ul li a:hover { 
+    text-decoration: none; 
+    color: var(--background-color); 
+    background-color: var(--base-color); 
 }
 
 /**
@@ -116,19 +129,6 @@ footer {
     padding-left: 0px;  
     list-style-type: none;  
     text-align: right; 
-}
-.menu ul li { 
-    display: inline;  
-    margin-left: 10px; 
-}
-.menu ul li a { 
-    text-decoration: none;  
-    color: var(--text-color); 
-}
-.menu ul li a:hover { 
-    text-decoration: none; 
-    color: var(--background-color); 
-    background-color: var(--base-color); 
 }
 
 /**
