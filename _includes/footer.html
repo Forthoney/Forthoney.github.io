@@ -7,7 +7,9 @@
       <li><a class="u-email" href="mailto:{{ address }}">{{ address }}</a></li>
     {%- endfor %}
     {% if site.author.github_username -%}
-      <li><a href="https://github.com/{{ site.github_username }}">{{site.github_username}}</a></li>
+      <li><a href="https://github.com/{{ site.author.github_username }}">
+        {{site.author.github_username}}
+      </a></li>
     {%- endif %}
   </ul>
 
