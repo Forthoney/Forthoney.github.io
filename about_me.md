@@ -4,8 +4,10 @@ title: "About me"
 permalink: /intro/
 ---
 
+# I am a...
 > High-level hipster by day, low-level lizard by night
 
+Currently working as
 ## Research Assistant for [PaSh](https://binpa.sh/) 
 Automatic parallelization of shell scripts hosted by the Linux Foundation
 - Developing ML model training workflow benchmark
