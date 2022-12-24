@@ -92,12 +92,12 @@ footer {
 /**
  * Lists
  */
-:not(.menu) > ul { 
+ul { 
     list-style: none;  
     list-style-type: none; 
     padding-left: 0; 
 }
-:not(.menu) > ul > li:before { 
+ul > li:before { 
     content: "-";  
     margin-right: 9px; 
 }
@@ -114,18 +114,25 @@ footer {
     margin-top: 12px;  
     margin-bottom: 12px;  
     padding-left: 0px;  
-    list-style-type: none;  
     text-align: right; 
 }
 .menu ul li { 
     display: inline;  
     margin-left: 10px; 
 }
-.menu ul li a { 
+
+ul.unstyled-list {
+    list-style-type: none;  
+}
+ul.unstyled-list > li:before {
+    content: none;
+    margin-right: 0; 
+}
+ul.unstyled-list li a { 
     text-decoration: none;  
     color: var(--text-color); 
 }
-.menu ul li a:hover { 
+ul.unstyled-list li a:hover { 
     text-decoration: none; 
     color: var(--background-color); 
     background-color: var(--base-color); 
