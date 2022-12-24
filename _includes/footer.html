@@ -2,15 +2,28 @@
   <div class="author-info">
     <ul class="unstyled-list">
       {% if site.author.name -%}
-        <li class="p-name">{{ site.author.name | escape }}</li>
+      <li class="p-name">{{ site.author.name | escape }}</li>
       {%- endif %}
-      {% for address in site.author.email -%}
-        <li><a class="u-email" href="mailto:{{ address }}">{{ address }}</a></li>
-      {%- endfor %}
+
+      <li>
+        email(
+        {% if site.author.email.personal -%}
+        <a class="u-email" href="mailto:{{ address }}">personal </a>
+        {%- endfor %}
+        {% if site.author.email.business -%}
+        <a class="u-email" href="mailto:{{ address }}">business </a>
+        {%- endfor %}
+        {% if site.author.email.school -%}
+        <a class="u-email" href="mailto:{{ address }}">school </a>
+        {%- endfor %}
+        )
+      </li>
+
+
       {% if site.author.github_username -%}
-        <li><a href="https://github.com/{{ site.author.github_username }}">
-          github
-        </a></li>
+      <li><a href="https://github.com/{{ site.author.github_username }}">
+        github        
+      </a></li>
       {%- endif %}
     </ul>
   </div>
