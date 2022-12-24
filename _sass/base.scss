@@ -64,7 +64,7 @@ footer {
     border-top: var(--border);  
     margin: 20px auto 15px;  
     padding-top: 10px;  
-    text-align: left; 
+    text-align: right; 
 }
 header { 
     margin-top: 25px;  
@@ -92,27 +92,14 @@ footer {
 /**
  * Lists
  */
-:not(ul.unstyled-ul) { 
+:not(.unstyled-list) > ul { 
     list-style: none;  
     list-style-type: none; 
     padding-left: 0; 
 }
-:not(ul.unstyled-ul) > li:before { 
+:not(.unstyled-list) > ul > li:before { 
     content: "-";  
     margin-right: 9px; 
-}
-ul.unstyled-ul > li { 
-    display: inline;  
-    margin-left: 10px; 
-}
-.unstyled-ul > li a { 
-    text-decoration: none;  
-    color: var(--text-color); 
-}
-.unstyled-ul > li a:hover { 
-    text-decoration: none; 
-    color: var(--background-color); 
-    background-color: var(--base-color); 
 }
 
 /**
@@ -129,6 +116,19 @@ ul.unstyled-ul > li {
     padding-left: 0px;  
     list-style-type: none;  
     text-align: right; 
+}
+.menu ul li { 
+    display: inline;  
+    margin-left: 10px; 
+}
+.unstyled-list ul li a { 
+    text-decoration: none;  
+    color: var(--text-color); 
+}
+.unstyled-list ul li a:hover { 
+    text-decoration: none; 
+    color: var(--background-color); 
+    background-color: var(--base-color); 
 }
 
 /**
