@@ -7,7 +7,6 @@ description: >-
 # url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Forthoney
 header_pages:
-  - index.md
   - about_me.md
 style: dark
 
