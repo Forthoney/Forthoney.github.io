@@ -92,12 +92,12 @@ footer {
 /**
  * Lists
  */
-:not(.unstyled-list) > ul { 
+:not(.menu) > ul { 
     list-style: none;  
     list-style-type: none; 
     padding-left: 0; 
 }
-:not(.unstyled-list) > ul > li:before { 
+:not(.menu) > ul > li:before { 
     content: "-";  
     margin-right: 9px; 
 }
@@ -121,11 +121,11 @@ footer {
     display: inline;  
     margin-left: 10px; 
 }
-.unstyled-list ul li a { 
+.menu ul li a { 
     text-decoration: none;  
     color: var(--text-color); 
 }
-.unstyled-list ul li a:hover { 
+.menu ul li a:hover { 
     text-decoration: none; 
     color: var(--background-color); 
     background-color: var(--base-color); 
