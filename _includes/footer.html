@@ -9,13 +9,13 @@
         email(
         {% if site.author.email.personal -%}
         <a class="u-email" href="mailto:{{ address }}">personal </a>
-        {%- endfor %}
+        {%- endif %}
         {% if site.author.email.business -%}
         <a class="u-email" href="mailto:{{ address }}">business </a>
-        {%- endfor %}
+        {%- endif %}
         {% if site.author.email.school -%}
         <a class="u-email" href="mailto:{{ address }}">school </a>
-        {%- endfor %}
+        {%- endif %}
         )
       </li>
 
