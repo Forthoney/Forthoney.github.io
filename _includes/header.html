@@ -1,6 +1,6 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
-  <title rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</title>
+  <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
   <div class="menu">
     <ul>
       {%- for path in page_paths -%}
