@@ -92,24 +92,24 @@ footer {
 /**
  * Lists
  */
-ul { 
+:not(ul.unstyled-ul) { 
     list-style: none;  
     list-style-type: none; 
     padding-left: 0; 
 }
-ul > li:before { 
+:not(ul.unstyled-ul) > li:before { 
     content: "-";  
     margin-right: 9px; 
 }
-.unstyled-ul li { 
+ul.unstyled-ul > li { 
     display: inline;  
     margin-left: 10px; 
 }
-.unstyled-ul li a { 
+.unstyled-ul > li a { 
     text-decoration: none;  
     color: var(--text-color); 
 }
-.unstyled-ul li a:hover { 
+.unstyled-ul > li a:hover { 
     text-decoration: none; 
     color: var(--background-color); 
     background-color: var(--base-color); 
