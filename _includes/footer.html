@@ -1,32 +1,24 @@
 <footer>
-  <div class="author-info">
-    <ul class="unstyled-list">
-      {% if site.author.name -%}
-      <li class="p-name">{{ site.author.name | escape }}</li>
-      {%- endif %}
+  <ul class="unstyled-list box right">
+    {% if site.author.name -%}
+    <li class="p-name">{{ site.author.name | escape }}</li>
+    {%- endif %}
 
-      <li>
-        email(
-        {% if site.author.email.personal -%}
-        <a class="u-email" href="mailto:{{ address }}">personal</a>
-        {%- endif %}
-        {% if site.author.email.business -%}
-        <a class="u-email" href="mailto:{{ address }}">business</a>
-        {%- endif %}
-        {% if site.author.email.school -%}
-        <a class="u-email" href="mailto:{{ address }}">school</a>
-        {%- endif %}
-        )
-      </li>
+    <li>
+      email[
+      {% for address in site.author.email %}
+      <a class="u-email" href="mailto:{{ address[1] }}">{{ address[0] }}</a>        
+      {% endfor %}
+      ]
+    </li>
 
 
-      {% if site.author.github_username -%}
-      <li><a href="https://github.com/{{ site.author.github_username }}">
-        github        
-      </a></li>
-      {%- endif %}
-    </ul>
-  </div>
-  
-  <i>{{ site.message }}</i>
+    {% if site.author.github_username -%}
+    <li><a href="https://github.com/{{ site.author.github_username }}">
+      github        
+    </a></li>
+    {%- endif %}
+  </ul>
+
+  <p class="box left"><i>{{ site.message }}</i></p>
 </footer>
