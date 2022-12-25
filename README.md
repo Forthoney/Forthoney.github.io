@@ -2,11 +2,12 @@
 A casual blog about myself I threw together one day just because.
 
 I heavily modded [jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console)
-which had a phenomenal aesthetic, but lacked very basic features. 
+which had the perfect aesthetic, but lacked many basic features. 
 Modifications/improvements include
 - Displays website title in header
 - Arranges contact info, socials, and description in footer without needing raw html
-- Refactoring of CSS for better expandibility
+- Adjustment to CSS for better responsiveness and readability
+- Refactoring of CSS
 
 
 ## Built With
