@@ -4,16 +4,16 @@ author:
     personal: castlehoneyjung@gmail.com
     school: seong-heon_jung@brown.edu
   github_username: Forthoney
-
+header_pages:
+  - about_me.md
+  - projects.md
 message: |-
   To err is human.
   To forgive, �â€™⍼ Segmentation fault (core dumped)
-# baseurl: "/Forthoney.github.io" # the subpath of your site, e.g. /blog
-# url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-header_pages:
-  - about_me.md
-
 style: dark
+
+baseurl: "/Forthoney.github.io" # the subpath of your site, e.g. /blog
+url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
