@@ -5,26 +5,28 @@
  * Style variables
  */
 $base-font-family:     'Source Code Pro', monospace !default;
-$base-font-size:       12.5px !default;
+$base-font-size:       min(0.8vw, 14px) !default;
 $mobile-font-size:     12px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
-$container-max-width:  600px !default;
+$container-max-width:  700px !default;
 
 /**
  * Global
  */
+html {
+    font-size: $base-font-size; 
+    font-family: $base-font-family;  
+}
+
 body { 
     background-color: var(--background-color);  
     margin: 0 auto;  padding: 0;  
-    font-family: $base-font-family;  
-    font-size: $base-font-size;  
     color: var(--text-color);  
     text-align: left;  
     line-height: $base-line-height !important; 
 }
 h1, h2, h3, h4, h5, h6 { 
-    font-size: $base-font-size;  
     margin: 0px;  
     margin-top: 22px;  
     font-weight: bold;  
