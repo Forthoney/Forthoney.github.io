@@ -1,9 +1,7 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,600,700,800');
 
-/**
- * Style variables
- */
+// variables
 $base-font-family:     'Source Code Pro', monospace !default;
 $base-font-size:       14px !default;
 $mobile-font-size:     12px !default;
@@ -11,9 +9,7 @@ $base-line-height:     1.5 !default;
 $container-width:      90% !default;
 $container-max-width:  700px !default;
 
-/**
- * Global
- */
+// text styling
 html {
     font-size: $base-font-size;
     font-family: $base-font-family;  
@@ -34,22 +30,28 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--text-color);
     font-size: 1.17rem;
 }
+
 h1 {
     font-size: 2rem;
 }
+
 h2 {
     font-weight: 800;
 }
+
 h3 {
     font-weight: 700;
 }
+
 h4 {
     font-weight: 600;
 }
+
 p, ul, ol { 
     margin: 0px;  
     color: var(--text-color); 
 }
+
 a { 
     text-decoration: underline;  
     color: var(--link-color); 
@@ -71,12 +73,14 @@ a {
     margin-right: auto;  
     margin-left: auto; 
 }
+
 p { 
     word-wrap: break-word;  
     word-break: break-word;  
     white-space: pre-wrap; 
     margin-bottom: 15px; 
 }
+
 header { 
     margin-top: 25px;  
     margin-bottom: 20px; 
@@ -85,6 +89,7 @@ header {
         margin: 0; 
     }
 }
+
 footer {
     color: var(--text-color);  
     border-top: var(--border);  
@@ -123,6 +128,7 @@ footer {
     background: var(--selection-background);  
     color: var(--selection-text); 
 }
+
 ::-moz-selection { 
     background: var(--selection-background);  
     color: var(--selection-text); 
