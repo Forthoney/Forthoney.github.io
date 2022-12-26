@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,600,700,800');
 
 /**
  * Style variables
@@ -30,8 +30,24 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0px;  
     margin-top: 22px;  
     font-weight: bold;  
-    color: var(--text-color); 
+    color: var(--text-color);
+    font-size: 1.17rem;
 }
+
+h1 {
+    font-size: 2rem;
+}
+h2 {
+    font-weight: 800;
+}
+h3 {
+    font-weight: 700;
+}
+h4 {
+    font-weight: 600;
+}
+
+
 p, ul, ol { 
     margin: 0px;  
     color: var(--text-color); 
