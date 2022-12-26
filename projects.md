@@ -3,13 +3,20 @@ layout: page
 title: "/projects"
 permalink: /projects/
 ---
-## Board Game Engine (Ruby)
-* Published a Ruby Gem for building boardgames to be played on the command window.
-* Provides 5 objects and modules which offer methods to handle board interactions and user input.
-* Received over 400 downloads on rubygems.org.
-
-## Multithreaded DBMS (C)
-* Created dictionary based in-memory Database management system.
-* Implement fine-grained multithreaded tree operations via pthread.h to handle multiple client requests concurrently.
-* Manage client activation and termination with coarse-grained concurrency.
-* Enable connecting to DB remotely with socket.h networking.
+/
+├─ personal
+│  └─ [board_game_engine](https://rubygems.org/gems/boardgame_engine)
+│
+├─ brown_risd_game_devs
+│  ├─ [yes!](https://brownrisdgames.itch.io/yes)
+│  ├─ [ascension](https://brownrisdgames.itch.io/ascension)
+│  └─ blehblade
+│
+└─ coursework
+    ├─ systems
+    │  ├─ multithreaded_dbms_c
+    │  └─ bash_clone_c
+    │
+    └─ algo
+        ├─ discrete_decision_tree_java
+        └─ search_engine_w_pagerank_python
