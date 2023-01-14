@@ -51,3 +51,5 @@ But until then, rankings will shift based on luck, since a player must guess wha
 
 This model too, however, leads to a rather boring system since the result of a non-mirror-picked round will be blatant as soon as each player's choice is revealed.
 It's like watching a game of Rock Paper Scissor!
+
+But all this is in an ideal game where all players play nearly perfectly. If players were not perfect, how would the game play out then? I'll discuss that in the next post.
