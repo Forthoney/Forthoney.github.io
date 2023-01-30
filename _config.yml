@@ -15,7 +15,7 @@ style: dark
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: G-18SSPS5483
+google_analytics: G-18SSPS5483 
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
