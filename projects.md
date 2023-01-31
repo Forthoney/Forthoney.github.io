@@ -6,6 +6,7 @@ permalink: /projects
 /
 ├─ personal
 │  ├─ [board_game_engine.rb](https://rubygems.org/gems/boardgame_engine)
+│  ├─ [consolo](https://github.com/Forthoney/consolo)
 │  └─ [rattyrates.rb](https://rattyrates.herokuapp.com/) 
 │
 ├─ brown_risd_game_devs

@@ -18,3 +18,5 @@ Automatic parallelization of shell scripts hosted by the Linux Foundation
 
 ### *Machine Learning Intern* at [OKIT](https://okit.co/)
 ##### Summer 2022
+
+[Resume](resume.pdf)
