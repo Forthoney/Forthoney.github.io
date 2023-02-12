@@ -2,7 +2,7 @@
 layout: post
 title:  "My hodgepodge analysis of game balance 1"
 date:   2023-01-06 15:00:00 +0900
-categories: overwatch game balance
+categories: games 
 ---
 
 You very rarely hear about some major sport like football or basketball changing their rules in a major way. 

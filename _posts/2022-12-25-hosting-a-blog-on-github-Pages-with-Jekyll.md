@@ -2,7 +2,7 @@
 layout: post
 title:  "Hosting a blog on github Pages with Jekyll"
 date:   2022-12-25 15:25:00 +0900
-categories: jekyll blog
+categories: blogging
 ---
 ## Returning to forthoney.github.io
 After having left my github page unattended for a year or so, I've finally come back. But returning to the project, I found myself with two big questions about the project's future. How would I finish building it, and what would I build in it?
