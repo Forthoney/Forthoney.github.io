@@ -5,6 +5,9 @@ permalink: /about_me
 ---
 High-level hipster by day, low-level lizard by night
 
+## *Incoming SWE Intern* at Hexagon Manufacturing Intelligence
+##### May 2023 - August 2023
+
 ## *Research Assistant* for [PaSh](https://binpa.sh/) 
 ##### Fall 2022 - Current
 
