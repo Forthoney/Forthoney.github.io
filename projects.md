@@ -12,9 +12,13 @@ permalink: /projects
 ├─ brown_risd_game_devs
 │  ├─ [yes.unity](https://brownrisdgames.itch.io/yes)
 │  ├─ [ascension.unity](https://brownrisdgames.itch.io/ascension)
-│  └─ blehblade.unity
+│  └─ [blehblade.unity](https://brownrisdgames.itch.io/blehblade)
 │
 └─ coursework
+    ├─ ML
+    |  ├─ [random_asymmetric_init](https://github.com/Forthoney/random-asymmetric-init)
+    |  └─ [AttnSleep.py](https://github.com/Forthoney/AttnSleep)
+    |
     ├─ systems
     │  ├─ multithreaded_dbms.c
     │  └─ bash_clone.c
