@@ -3,8 +3,6 @@ layout: page
 title: "/about_me++"
 permalink: /about_me
 ---
-High-level hipster by day, low-level lizard by night
-
 ## *Research Assistant* for [PaSh](https://binpa.sh/) 
 ##### Fall 2022 - Current
 
