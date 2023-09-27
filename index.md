@@ -5,7 +5,8 @@ title: "Seong-Heon's Blog"
 permalink:  
 layout: home
 ---
- 
-A casual blog/diary. I post when I have stuff I want to share.
-Built with a theme I published myself, [consolo](https://github.com/Forthoney/consolo).
-View the site source code [here](https://github.com/Forthoney/Forthoney.github.io)
+Junior at [Brown U.](https://www.brown.edu/) studying Computer Science.
+High-level hipster by day, low-level lizard by night.
+I love making different Programming Languages talk to each other. Compilation & Transpilation, Shell pipelines, and programming language design are all right up my alley.
+
+This site is built with a Jekyll theme I published myself, [consolo](https://github.com/Forthoney/consolo).
