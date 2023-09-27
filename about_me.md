@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "/about_me"
+title: "/about_me++"
 permalink: /about_me
 ---
 High-level hipster by day, low-level lizard by night
