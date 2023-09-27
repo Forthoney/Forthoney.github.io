@@ -13,7 +13,7 @@ Automatic parallelization of shell scripts hosted by the Linux Foundation
 - Developed ML model training workflow benchmark
 - Advised by [Prof. Nikos Vasilakis](http://nikos.vasilak.is/)
 
-## *SWE Intern* at Hexagon Manufacturing Intelligence
+### *SWE Intern* at Hexagon Manufacturing Intelligence
 ##### May 2023 - August 2023
 
 ### *Programmer* at [Brown RISD Game Devs](https://brownrisdgames.itch.io/)
