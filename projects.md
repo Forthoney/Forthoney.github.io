@@ -7,7 +7,8 @@ permalink: /projects
 ├─ personal
 │  ├─ [board_game_engine.rb](https://rubygems.org/gems/boardgame_engine)
 │  ├─ [consolo](https://github.com/Forthoney/consolo)
-│  └─ [rattyrates.rb](https://rattyrates.herokuapp.com/) 
+│  └─ [document_similarity_algorithm](https://rubygems.org/gems/doc_sim)
+│  └─ [webassembly_embeded_ruby](https://github.com/forthoney/werb)
 │
 ├─ brown_risd_game_devs
 │  ├─ [yes.unity](https://brownrisdgames.itch.io/yes)
