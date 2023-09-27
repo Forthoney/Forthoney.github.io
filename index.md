@@ -6,6 +6,6 @@ permalink:
 layout: home
 ---
  
-A casual blog/diary. Uploaded weekly sometime during Saturday EST.
+A casual blog/diary. I post when I have stuff I want to share.
 Built with a theme I published myself, [consolo](https://github.com/Forthoney/consolo).
 View the site source code [here](https://github.com/Forthoney/Forthoney.github.io)
