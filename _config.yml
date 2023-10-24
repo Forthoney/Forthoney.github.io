@@ -5,6 +5,7 @@ author:
     school: seong-heon_jung@brown.edu
   github_username: Forthoney
 header_pages:
+  - talks.md
   - projects.md
   - about_me.md
 message: |-
