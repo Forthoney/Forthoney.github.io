@@ -10,6 +10,7 @@ permalink: /talks
 ##### Oct. 25, Nov. 1
 As a [Data Science Fellow](https://dsi.brown.edu/academics/data-science-fellows), I developed a two-part workshop for a graduate level Egyptology course (Monumentality and Texts in ancient Egypt).
 The workshop introduces students to data science and ML through a practical miniproject. The students start from collecting and generating hieroglyphics data all the way to discovering previously unnoticed similarities between hieroglyphics through unsupervised classfication.
+[Part 1](https://colab.research.google.com/drive/1zxzXbzTxzvNQOywDrLq69kmXKS97qv7q?usp=sharing)
 
 ### *From Shell Programs to Data Engineering Workflows, Automatically* @ 3rd PaSh Workshop
 ##### Oct. 18
