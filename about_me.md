@@ -3,21 +3,15 @@ layout: page
 title: "/about_me++"
 permalink: /about_me
 ---
-## *Research Assistant* for [PaSh](https://binpa.sh/) 
-##### Fall 2022 - Current
 
-Automatic parallelization of shell scripts hosted by the Linux Foundation
-- Integrating backend with [Apache Airflow](https://airflow.apache.org/)
-- Developed ML model training workflow benchmark
-- Advised by [Prof. Nikos Vasilakis](http://nikos.vasilak.is/)
+## Name
+My name written in Korean (the original way) is 정성헌.
+"Seong-Heon" is my first name and "Jung" is my last name.
 
-### *SWE Intern* at Hexagon Manufacturing Intelligence
-##### May 2023 - August 2023
-
-### *Programmer* at [Brown RISD Game Devs](https://brownrisdgames.itch.io/)
-##### Fall 2021 - Current
-
-### *Machine Learning Intern* at [OKIT](https://okit.co/)
-##### Summer 2022
-
-[Resume](resume.pdf)
+### Pronunciation
+My name is pronounced
+- __Seong__ as in sing-sang-(_sung_)
+- __Heon__ as in (_hon_)ey
+- __Jung__ as in (_seong_) but replace the s with a j
+All three sounds in my name actually have the same vowel sound, but my first name uses "eo" to represent this vowel and my last name uses "u".
+This is due to complicated but interesting bureaucratic reasons. The short answer is the romanization guidelines changed between when my grandparents decided to romanize their names and when I romanized my name. So, my last name (which I take from my father & paternal grandfather) follows the old standards and my first name follows the [new standard](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean).
