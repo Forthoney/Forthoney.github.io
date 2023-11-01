@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "/talks"
+title: "shjung/talks"
 permalink: /talks
 ---
 ### *WERB: Fully Ruby Frontends with WASM* @ RubyConf 2023 San Diego
