@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "shjung/talks"
+title: "/talks"
 permalink: /talks
 ---
 ### *WERB: Fully Ruby Frontends with WASM* 
