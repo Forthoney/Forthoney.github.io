@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "shjung/projects"
+title: "/projects"
 permalink: /projects
 ---
 /
