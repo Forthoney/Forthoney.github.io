@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "shjung/about_me++"
+title: "/about_me++"
 permalink: /about_me
 ---
 
