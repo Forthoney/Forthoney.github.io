@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "shjung/work"
+title: "/work"
 permalink: /work
 ---
 ## *Research Assistant* for [PaSh](https://binpa.sh/) 
