@@ -143,6 +143,7 @@ class Server
   def stop
     @supervisor.send(:terminate)
   end
+end
 ```
 
 This solution is fully functional, but Mooro instead opts for a Thread based solution. The supervisor is run on a separate thread and `Server#stop` raises an error on the supervisor thread.
