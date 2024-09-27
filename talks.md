@@ -3,10 +3,17 @@ layout: page
 title: "/talks"
 permalink: /talks
 ---
+### *Mooro: Using Ractors and Making Ractors Usable*
+### @ EuRuKo (European Ruby Konferenz) 2024 Sarajevo
+##### Sep. 11-13
+I gave a talk about building a functioning TCP/HTTP server from scratch with Ruby's newest parallelism feature.
+[Slides](https://docs.google.com/presentation/d/1qDzyXsNWOIQ6jwt3pwWka7eGcrOsN3igI0cyYdV2Jzk/edit?usp=sharing)
+
 ### *WERB: Fully Ruby Frontends with WASM* 
 ### @ RubyConf 2023 San Diego
 ##### Nov. 13-15
-Coming soon...
+I presented about a sacriligious project that compiles HTML with embedded Ruby into actual DOM operations, since the web isn't chaotic enough already.
+[Video](https://youtu.be/tNcfYLuQ5Es?si=sS98O_OzkwwRL14U&t=1542)
 
 ### *AI/ML Workshop for Grad Students in the Humanities* 
 ### @ Brown EGYT 2200
