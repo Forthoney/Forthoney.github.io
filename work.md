@@ -3,7 +3,7 @@ layout: page
 title: "/work"
 permalink: /work
 ---
-## *Research Assistant* for ATLAS@BrownCS (https://atlas.cs.brown.edu/)
+## *Research Assistant* for [ATLAS@BrownCS](https://atlas.cs.brown.edu/)
 ##### Fall 2022 - Current
 - Advised by [Prof. Nikos Vasilakis](http://nikos.vasilak.is/)
 
