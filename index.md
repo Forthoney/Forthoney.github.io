@@ -5,7 +5,7 @@ title: "Seong-Heon Jung"
 permalink:  
 layout: home
 ---
-Junior at [Brown U.](https://www.brown.edu/) studying Computer Science.
+Senior at [Brown U.](https://www.brown.edu/) studying Computer Science.
 High-level hipster by day, low-level lizard by night.
 I love making different Programming Languages talk to each other. Compilation & Transpilation, Shell pipelines, and programming language design are all right up my alley.
 
