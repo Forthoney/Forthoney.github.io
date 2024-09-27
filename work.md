@@ -3,12 +3,8 @@ layout: page
 title: "/work"
 permalink: /work
 ---
-## *Research Assistant* for [PaSh](https://binpa.sh/) 
+## *Research Assistant* for ATLAS@BrownCS (https://atlas.cs.brown.edu/)
 ##### Fall 2022 - Current
-
-Automatic parallelization of shell scripts hosted by the Linux Foundation
-- Integrating backend with [Apache Airflow](https://airflow.apache.org/)
-- Developed ML model training workflow benchmark
 - Advised by [Prof. Nikos Vasilakis](http://nikos.vasilak.is/)
 
 ### *SWE Intern* at Hexagon Manufacturing Intelligence
