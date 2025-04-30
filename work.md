@@ -3,7 +3,7 @@ layout: page
 title: "/work"
 permalink: /work
 ---
-## *Research Assistant* for [ATLAS@BrownCS](https://atlas.cs.brown.edu/)
+## *Student Researcher* for [ATLAS@BrownCS](https://atlas.cs.brown.edu/)
 ##### Fall 2022 - Current
 - Advised by [Prof. Nikos Vasilakis](http://nikos.vasilak.is/)
 
@@ -15,5 +15,3 @@ permalink: /work
 
 ### *Machine Learning Intern* at [OKIT](https://okit.co/)
 ##### Summer 2022
-
-[Resume](resume.pdf)
