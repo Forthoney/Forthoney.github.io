@@ -1,11 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: "Seong-Heon Jung"
 permalink:  
 layout: home
+image: assets/grad-photo.jpg
+image_alt: "A photo of Seong-Heon Jung in graduation garments"
 ---
-<img src="/assets/grad-photo.jpg" width="300" alt="A photo of Seong-Heon Jung in graduation garments">
 Incoming PhD student at New York University advised by [Prof. Sam Westrick](https://cs.nyu.edu/~shw8119/).
 Senior at Brown University studying Computer Science advised by [Prof. Nikos Vasilakis](https://nikos.vasilak.is).
 
