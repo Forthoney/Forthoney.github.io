@@ -2,7 +2,7 @@
 title: "Seong-Heon Jung"
 permalink:  
 layout: home
-image: assets/nyu2025.jpg
+image: assets/nyu2025.JPG
 image_alt: "A photo of Seong-Heon Jung in a blue sweater"
 ---
 Incoming PhD student at New York University advised by [Prof. Sam Westrick](https://cs.nyu.edu/~shw8119/).
