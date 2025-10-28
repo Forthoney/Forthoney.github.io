@@ -2,8 +2,8 @@
 title: "Seong-Heon Jung"
 permalink:  
 layout: home
-image: assets/grad-photo.jpg
-image_alt: "A photo of Seong-Heon Jung in graduation garments"
+image: assets/nyu2025.jpg
+image_alt: "A photo of Seong-Heon Jung in a blue sweater"
 ---
 Incoming PhD student at New York University advised by [Prof. Sam Westrick](https://cs.nyu.edu/~shw8119/).
 Senior at Brown University studying Computer Science advised by [Prof. Nikos Vasilakis](https://nikos.vasilak.is).
