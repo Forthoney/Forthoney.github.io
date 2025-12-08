@@ -21,7 +21,14 @@ This is due to complicated but interesting bureaucratic reasons. The short answe
 In [hanja](https://en.wikipedia.org/wiki/Hanja), my name is 聖憲. It's roughly equivalent to wise/holy law. A fortune teller said it was a good name; go figure.
 
 ## Pets
-I have three gastropods: one snail and two slugs. They are named Ibuprofen, NyQuil, and DayQuil. I strongly believe gastropods (i.e. snails and slugs) make for wonderful pets because they are the only pet I have found so far which check all the boxes below. 
+I have two snails and one roly-poly.
+They are really really small - roughly a third of the size of my pinky fingernail - and I'm not sure I'll keep them in the long term so they have no names yet.
+Open to ideas though!
+
+I used to have three gastropods: one snail and two slugs. They were named Ibuprofen, NyQuil, and DayQuil.
+I had to release them after graduating from Brown as gastropods cannot cross state borders without a permit :(
+
+I strongly believe gastropods (i.e. snails and slugs) make for wonderful pets because they are the only pet I have found so far which check all the boxes below. 
 1. Does not smell bad
 1. Does not get sick easily
 1. Does not require a lot of space
@@ -35,8 +42,5 @@ I have three gastropods: one snail and two slugs. They are named Ibuprofen, NyQu
 Admittedly there are some close contenders. Honorable mentions go to plants (5), jumping spiders (4), turtles (1), snakes (4, 8), rats/mice (1, 2, 4, 7).
 
 \* Some people are mildly disgusted, but I distinguish disgust from terror.
+
 \*\* My snail is not vegan because I use cuttlebone as their calcium supplement, but this can be easily replaced with calcium powder or, in the case of slugs, nothing!
-
-## (Dis)ability
-I suffer from narcolepsy. I do truly mean it when I write that I _suffer_ from it, but I still try to make the most out of it. For example, I have extensive experience with sleep paralysis and have even managed to run some experiments while paralyzed. I also adjust incredibly fast to jetlag, requiring no more than a couple days to adjust to 12+ hours of time difference.
-
