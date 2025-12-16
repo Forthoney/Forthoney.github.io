@@ -4,8 +4,8 @@ title: "/publications"
 permalink: /publications
 ---
 {% for pub in site.publications %}
-  ### {{ pub.title }}
-  {{ pub.authors | join: ", " | replace: "Seong-Heon Jung", "**Seong-Heon Jung**"}}
+### {{ pub.title }}
+{{ pub.authors | join: ", " | replace: "Seong-Heon Jung", "**Seong-Heon Jung**"}}
   
-  *{{ pub.venue }}*, [PDF]({{ pub.link }})
+*{{ pub.venue }}*, [PDF]({{ pub.link }})
 {% endfor %}
