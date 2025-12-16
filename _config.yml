@@ -18,7 +18,7 @@ baseurl: "/~sj4963/" # the subpath of your site, e.g. /blog
 url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: consolo
+remote_theme: Forthoney/consolo
 
 # Exclude from processing.
 # The following items will not be processed, by default.
