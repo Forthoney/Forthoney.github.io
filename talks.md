@@ -22,4 +22,6 @@ permalink: /talks
   {% assign talk_links = talk_links | push: slides_link %}
 {% endif %}
 
+{{ talk_links | join: ", " }}
+
 {% endfor %}
