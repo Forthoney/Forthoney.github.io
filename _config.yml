@@ -14,7 +14,7 @@ message: |-
   To forgive, �â€™⍼ Segmentation fault (core dumped)
 style: light
 
-baseurl: "/~sj4963/" # the subpath of your site, e.g. /blog
+# baseurl: "/~sj4963/" # the subpath of your site, e.g. /blog
 url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
