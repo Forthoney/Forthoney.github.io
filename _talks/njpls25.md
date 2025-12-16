@@ -1,9 +1,8 @@
 ---
 title: >
-  Mooro: Using Ractors and Making Ractors Usable
-venue: EuRuKo Sarajevo
-date: 2024-09-13
-slides: https://docs.google.com/presentation/d/1qDzyXsNWOIQ6jwt3pwWka7eGcrOsN3igI0cyYdV2Jzk/edit?usp=sharing
-video: https://youtu.be/PnaQay6aRDE?si=typWUJH8o-QMIqFx
+  DePa*: Order Maintenance for Futures
+venue: NJPLS Princeton
+date: 2025-12-05
+slides: https://docs.google.com/presentation/d/1nehLUBbdmAni7EoDNllFFzLKcIcf-pd5b-ioe4EoDbc/edit?usp=sharing
 ---
-I gave a talk about building a functioning TCP/HTTP server from scratch with Ruby's newest parallelism feature.
+I presented a work-in-progress task order maintenance algorithm.
