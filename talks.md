@@ -3,7 +3,8 @@ layout: page
 title: "/talks"
 permalink: /talks
 ---
-{% for talk in site.talks | reverse %}
+{% assign talks = site.talks | reverse %}
+{% for talk in talks %}
 ### {{ talk.title }}
 ##### {{ talk.date | date: "%Y %B %d" }} @ {{ talk.venue }}
 

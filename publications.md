@@ -3,7 +3,8 @@ layout: page
 title: "/publications"
 permalink: /publications
 ---
-{% for pub in site.publications | reverse %}
+{% assign pubs = site.publications | reverse %}
+{% for pub in pubs %}
 ### {{ pub.title }}
 {{ pub.authors | join: ", " | replace: "Seong-Heon Jung", "**Seong-Heon Jung**"}}
   
