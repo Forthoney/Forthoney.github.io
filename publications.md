@@ -8,5 +8,8 @@ permalink: /publications
 ### {{ pub.title }}
 {{ pub.authors | join: ", " | replace: "Seong-Heon Jung", "**Seong-Heon Jung**"}}
   
-*{{ pub.venue }}*, [PDF]({{ pub.link }})
+*{{ pub.venue }}*
+{%- if pub.link -%}
+  , [PDF]({{ pub.link }})
+{%- endif -%}
 {% endfor %}

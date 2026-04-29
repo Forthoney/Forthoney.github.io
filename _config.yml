@@ -1,8 +1,9 @@
 title: Seong-Heon Jung
 author:
+  name: Seong-Heon Jung
   email: 
     personal: castlehoneyjung@gmail.com
-    school: sj4963@nyu.edu
+    school: jung.s@nyu.edu
   github_username: Forthoney
   mastodon: https://ruby.social/@castlehoney
 header_pages:
@@ -18,8 +19,7 @@ style: light
 # baseurl: "/~sj4963/" # the subpath of your site, e.g. /blog
 url: "https://forthoney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-remote_theme: Forthoney/consolo
+theme: "consolo"
 
 collections:
   talks:
