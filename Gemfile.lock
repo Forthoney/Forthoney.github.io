@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Forthoney/consolo.git
-  revision: 48c918de51900be60df462d3e168be7576d795dd
+  revision: f71b0336924dabce8088a726a4406848bf974220
   specs:
     consolo (0.1.1)
       jekyll (~> 4.0)
@@ -50,7 +50,7 @@ GEM
       sass-embedded (~> 1.75)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.19.4)
+    json (2.19.5)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)

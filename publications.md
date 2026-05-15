@@ -26,7 +26,8 @@ permalink: /publications
 {% endfor %}
 {{ rendered_authors | join: ", " }}
   
-*{{ pub.venue }}*
+{% assign venue_short = pub.venue | split: "(" | last | remove: ")" | strip %}
+*<span title="{{ pub.venue }}" style="cursor: help;">{{ venue_short }}</span>*
 {%- if pub.link -%}
   , [PDF]({{ pub.link }})
 {%- endif -%}
